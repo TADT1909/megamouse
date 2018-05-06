@@ -1,8 +1,5 @@
 /***************
  * Motor Class Implementation
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef MOTOR_CPP

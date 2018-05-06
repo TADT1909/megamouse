@@ -1,14 +1,5 @@
 /***************
 *  Maze Solving Micromouse
-*
-*  Sharang Phadke
-*  Sameer Chauhan
-U: guest 858
-P: swarthy88
-
-fix calibrate
-fix turn around
-test
 ***************/
 
 #define ENCODER_USE_INTERRUPTS

@@ -1,8 +1,5 @@
 /***************
  * Constants
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef CONST_H
@@ -11,7 +8,7 @@
 #define LEFT 0
 #define RIGHT 1
 #define CENTER 2
-
+// threshold
 #define LEFTTHRESH 261
 #define RIGHTTHRESH 257
 #define CENTERTHRESH_CLOSE 500
@@ -21,7 +18,7 @@
 #define STRAIGHTEN_THRESH 8
 
 #define BASE_IR_SIGMA 9  // 10
-
+// pinouts
 #define LEFT_IR 3
 #define CENTER_IR 4
 #define RIGHT_IR 5

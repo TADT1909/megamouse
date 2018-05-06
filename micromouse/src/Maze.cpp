@@ -1,8 +1,5 @@
 /***************
  * Maze Class Implementation
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef MAZE_CPP

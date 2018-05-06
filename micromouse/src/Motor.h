@@ -1,8 +1,5 @@
 /***************
  * Motor Class Declaration
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef MOTOR_H

@@ -1,8 +1,5 @@
 /***************
  * SensorController Class Implementation
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef SENSORCONTROLLER_CPP

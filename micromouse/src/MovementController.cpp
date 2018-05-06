@@ -1,8 +1,5 @@
 /***************
  * MovementController Class Implementation
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef MOVEMENTCONTROLLER_CPP

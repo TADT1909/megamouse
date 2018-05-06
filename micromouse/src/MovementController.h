@@ -1,8 +1,5 @@
 /***************
  * MovementController Class Declaration
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef MOVEMENTCONTROLLER_H

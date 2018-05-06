@@ -1,8 +1,5 @@
 /***************
  * SensorController Class Declaration
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef SENSORCONTROLLER_H

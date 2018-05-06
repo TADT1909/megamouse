@@ -1,8 +1,5 @@
 /***************
  * Maze Class Declaration
- *
- * Sharang Phadke
- * Sameer Chauhan
  ***************/
 
 #ifndef MAZE_H
